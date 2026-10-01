@@ -1,0 +1,6 @@
+venv/
+dataset/
+output/
+__pycache__/
+*.pth
+.DS_Store
